@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Weddings",
+        "description": "Plan your dream wedding with us. From venues to decorations, we've got it all covered.",
+        "image": "https://i.ibb.co/nbM0GH6/wedding-Service.jpg",
+        "price": 5000.00,
+        "details": "Immerse yourself in the magic of your special day with our comprehensive wedding planning package. Our dedicated team will assist you in selecting the perfect venue, designing exquisite decorations, arranging delectable catering, capturing timeless moments through professional photography, and ensuring every detail reflects your unique style and love story. Your dream wedding is within reach, and we're here to make it a reality. Trust us to turn your vision into an unforgettable celebration of love and commitment."
+    },
+    {
+        "id": 2,
+        "title": "Birthday Parties",
+        "description": "Celebrate another fantastic year of life with a memorable birthday party. Let us help you make it special.",
+        "image": "https://i.ibb.co/MM9qwqB/catering-decor.jpg",
+        "price": 500.00,
+        "details": "Make your birthday a joyous and unforgettable occasion with our all-inclusive party planning package. We'll transform your chosen venue into a festive space with personalized decorations, arrange entertaining activities, provide delicious catering including a custom-designed cake, and ensure your guests leave with wonderful memories. Whether you're celebrating a milestone or simply reveling in the joy of life, our team is committed to making your birthday party an extraordinary and stress-free experience."
+    },
+    {
+        "id": 3,
+        "title": "Anniversaries",
+        "description": "Commemorate your love and commitment. Plan the perfect anniversary celebration with our assistance.",
+        "image": "https://i.ibb.co/xDZK6g9/anniversary-Service.jpg",
+        "price": 800.00,
+        "details": "Celebrate the enduring journey of your love with our meticulously curated anniversary planning package. We offer a selection of enchanting venues, romantic decor to set the mood, gourmet catering featuring delectable dishes, and personalized touches that reflect the essence of your relationship. Our goal is to create an unforgettable anniversary celebration that honors your years together, creating new memories that will strengthen your bond and leave a lasting imprint on both you and your guests."
+    },
+    {
+        "id": 4,
+        "title": "Engagement Parties",
+        "description": "Begin your journey to a lifetime together with a joyous engagement party. We'll handle the details for you.",
+        "image": "https://i.ibb.co/DQ8XZTN/Engagement-Service.jpg",
+        "price": 400.00,
+        "details": "Embark on your journey to a lifetime of happiness with a delightful engagement party planned by our experienced team. We take care of every detail, from selecting the perfect venue to designing thematic decor that captures the essence of your relationship. Our package includes expert catering, seamless event coordination, and entertainment that reflects your personalities. Allow us to create a joyous celebration that marks the beginning of your exciting journey towards marriage, surrounded by the warmth and love of family and friends."
+    },
+    {
+        "id": 5,
+        "title": "Retirement Parties",
+        "description": "Bid farewell to a rewarding career with a retirement party that reflects the achievements and memories.",
+        "image": "https://i.ibb.co/xfYMKZQ/Retirement-Party-Service.png",
+        "price": 600.00,
+        "details": "Celebrate the culmination of a successful career with a retirement party that honors the retiree's achievements and contributions. Our comprehensive planning package includes venue selection, personalized decor that highlights the professional journey, heartfelt speeches, and entertaining activities. We aim to create an atmosphere of appreciation and joy, allowing the retiree to embark on the next chapter with fond memories and well-wishes. Let us craft a retirement party that reflects the unique personality and accomplishments of the honoree, ensuring a memorable send-off into a well-deserved retirement."
+    },
+    {
+        "id": 6,
+        "title": "Baby Shower",
+        "description": "Welcome the newest member of the family with a heartwarming baby shower. Create memories that will last a lifetime.",
+        "image": "https://i.ibb.co/mq2tJdS/baby-Shower-Service.jpg",
+        "price": 300.00,
+        "details": "Celebrate the imminent arrival of a precious new life with our enchanting baby shower planning package. We handle every aspect, from venue decoration with a touch of whimsy to fun and engaging games for guests. Our catering includes delicious treats, and every detail is thoughtfully designed to create a heartwarming atmosphere. As the parents-to-be are showered with love and well-wishes, we ensure the event becomes a cherished memory and a perfect start to the journey of parenthood. Let us create a baby shower that captures the joy and excitement of this special moment."
+    }
+]
